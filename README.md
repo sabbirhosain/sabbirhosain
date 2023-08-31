@@ -37,10 +37,15 @@
 
 <img class="output" src="https://github-readme-stats.vercel.app/api?username=sabbirhosain&amp;theme=highcontrast&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
 
-<img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosain&amp;theme=highcontrast&amp;hide_border=true" alt="github streak">
+<!--<img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosain&amp;theme=highcontrast&amp;hide_border=true" alt="github streak">
 
-<img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirhosain&amp;theme=highcontrast&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
+<img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username={sabbirhosain}&amp;theme=highcontrast&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 
+<img class="output" src="https://github-stats-alpha.vercel.app/api?username=sabbirhosain&cc=000&tc=fff&ic=ff0000&bc=000">
+Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color-->
 
 
 
@@ -123,24 +128,12 @@
 
 <br/>  
 
-
-<p><a href="https://hits.seeyoufarm.com" target="_blank" rel="noopener noreferrer"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&amp;count_bg=%2379C83D&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=Profile+Views&amp;edge_flat=false" alt="Hits" style="padding: 10px 20px;"></a>
-<a href="https://twitter.com/hejazizo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/hejazizo" alt="Twitter Badge"></a>
-<a href="https://www.linkedin.com/in/hejazizo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin"></a>
-<a href="https://www.instagram.com/ali.hejazzii" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/ali.hejazzii/" alt="Instagram Badge"></a>
-<a href="mailto:hejazizo@ualberta.ca" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail"></a>
-<a href="https://pytopia.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Website-c14438?style=flat&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://pytopia.ai" alt="Website Badge"></a>
-<a href="https://github.com/hejazizo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/hejazizo?label=Follow&amp;style=social" alt="Github"></a></p>
-
-
-
-
-
-  
-
-<div style="color:red; background-color:red; height:2px; width:100%;"></div>
-<div style="margin-top: 30px;
-    padding-top: 30px;
-    text-align: center;
-    font-size: 10px;
-    border-top: 2px solid red;"><span>DESIGNER BY -<a href="#" target="_blank"> SABBIR HOSAIN</a></span></div>
+<!--socail media-->
+<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsabbirhosain%2Fsabbirhosain&amp;count_bg=%2379C83D&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=Profile+Views&amp;edge_flat=false" alt="Hits" style="padding: 10px 20px;"></a>
+<a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com" alt="Twitter Badge"></a>
+<a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin"></a>
+<a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/ali.hejazzii/" alt="Instagram Badge"></a>
+<a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail"></a>
+<a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Website-c14438?style=flat&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://pytopia.ai" alt="Website Badge"></a>
+<a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-gitbub-c14438?style=flat&amp;logo=github&amp;logoColor=white&amp;link=https://pytopia.ai" alt="Website Badge"></a>
+<a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/sabbirhosain?label=Follow&amp;style=social" alt="Github"></a></p>
