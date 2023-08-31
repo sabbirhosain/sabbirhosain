@@ -132,7 +132,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </a>
 <a href="https://instagram.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://github.com/hejazizo" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/github/followers/hejazizo?label=Follow&amp;style=social" alt="Github"></a>
 </div>
 
-<div style="text-align:center; font-size:10px;">DESIGNER BY -<a href="#" target="_blank"> SABBIR HOSAIN</a></div>
+<div style="text-align:center; font-size:10px;"><span>DESIGNER BY -<a href="#" target="_blank"> SABBIR HOSAIN</a></span></div>
