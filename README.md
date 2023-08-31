@@ -26,13 +26,7 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4198c784d4dde2f019799bcd7deeb3cb007d5ad71b4ef68245d943184004ff55/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736162626972686f7361696e26267374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/4198c784d4dde2f019799bcd7deeb3cb007d5ad71b4ef68245d943184004ff55/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736162626972686f7361696e26267374796c653d666c61742d737175617265" alt="Profile views counter" data-canonical-src="https://komarev.com/ghpvc/?username=sabbirhosain&amp;&amp;style=flat-square" style="max-width: 100%;"></a></p>
 
-<h4>Hi, I’m Sabbir Hosain👋</h4>
-
-
-### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+<p dir="auto">I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.</p>
   
 
 <br/>  
