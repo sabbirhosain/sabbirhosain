@@ -2,32 +2,32 @@
 <!--socail media-->
 <div class="socail">
 <!--facebook-->
-<a href="https://www.facebook.com/sabbirrahman2002" target="_blank">
+<a href="https://www.facebook.com/sabbirrahman2002" target="new">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" /></a>
 <!--twitter-->
-<a href="#" target="_blank">
+<a href="#" target="new">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
 <!--linkedin-->
-<a href="https://www.linkedin.com/in/sabbirhosain2002/" target="_blank">
+<a href="https://www.linkedin.com/in/sabbirhosain2002/" target="new">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 <!--github-->
-<a href="https://github.com/sabbirhosain" target="_blank">
+<a href="https://github.com/sabbirhosain" target="new">
 <img src=https://img.shields.io/badge/github-%23c9510c.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
 <!--instragram-->
-<a href="#" target="_blank">
+<a href="#" target="new">
 <img src=https://img.shields.io/badge/instagram-%23800080.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
 <!--website-->
-<a href="#" target="_blank">
+<a href="#" target="new">
 <img src=https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
       <!--fiverr-->
-<a href="https://www.fiverr.com/quick_devlopers" target="_blank">
+<a href="https://www.fiverr.com/quick_devlopers" target="new">
 <img src=https://img.shields.io/badge/fiverr-%231DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
       <!--upwork-->
-<a href="https://www.upwork.com/freelancers/~01b4e9f7c92e5c7d4f" target="_blank">
+<a href="https://www.upwork.com/freelancers/~01b4e9f7c92e5c7d4f" target="new">
 <img src=https://img.shields.io/badge/upwork-%c14438.svg?&style=for-the-badge&logo=upwork&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
       
 <!--div deio-->
-<a href="#" target="_blank">
+<a href="#" target="new">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" /></a>
 </div><br>
 <!--Profile view counter-->
