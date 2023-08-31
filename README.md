@@ -123,11 +123,8 @@ Where cc = Card Color
 <br/>  
 
 
-## Github Stats  
-
-
+##
 <br/>  
-
 <!--socail media-->
 <p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsabbirhosain%2Fsabbirhosain&amp;count_bg=%2379C83D&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=Profile+Views&amp;edge_flat=false" alt="Hits" style="padding: 10px 20px;"></a>
 <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com" alt="Twitter Badge"></a>
