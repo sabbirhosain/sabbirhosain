@@ -32,12 +32,12 @@
 
 
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anuraghazra&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Sabbir Hosain GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sabbirhosain&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;"></a></p>
 
 
 
 
-
+<img class="output" src="https://github-readme-stats.vercel.app/api?username=sabbirhosain;theme=highcontrast&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
 
 
 
