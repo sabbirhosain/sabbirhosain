@@ -12,13 +12,20 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 <!--github-->
 <a href="https://github.com/sabbirhosain" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+<img src=https://img.shields.io/badge/github-%23c9510c.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
 <!--instragram-->
 <a href="#" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%c14438.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
-<!--instragram-->
+<img src=https://img.shields.io/badge/instagram-%23800080.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
+<!--website-->
 <a href="#" target="_blank">
-<img src=https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
+<img src=https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
+      <!--fiverr-->
+<a href="https://www.fiverr.com/quick_devlopers" target="_blank">
+<img src=https://img.shields.io/badge/fiverr-%231DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
+      <!--upwork-->
+<a href="https://www.upwork.com/freelancers/~01b4e9f7c92e5c7d4f" target="_blank">
+<img src=https://img.shields.io/badge/upwork-%c14438.svg?&style=for-the-badge&logo=upwork&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
+      
 <!--div deio-->
 <a href="#" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" /></a>
