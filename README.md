@@ -19,14 +19,11 @@
 <!--div deio-->
 <a href="#" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" /></a>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4198c784d4dde2f019799bcd7deeb3cb007d5ad71b4ef68245d943184004ff55/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736162626972686f7361696e26267374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/4198c784d4dde2f019799bcd7deeb3cb007d5ad71b4ef68245d943184004ff55/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736162626972686f7361696e26267374796c653d666c61742d737175617265" alt="Profile views counter" data-canonical-src="https://komarev.com/ghpvc/?username=sabbirhosain&amp;&amp;style=flat-square" style="max-width: 100%;"></a>
-</div>
-
-
-
-
+</div><br>
+<!--Profile view counter-->
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4198c784d4dde2f019799bcd7deeb3cb007d5ad71b4ef68245d943184004ff55/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736162626972686f7361696e26267374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/4198c784d4dde2f019799bcd7deeb3cb007d5ad71b4ef68245d943184004ff55/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736162626972686f7361696e26267374796c653d666c61742d737175617265" alt="Profile views counter" data-canonical-src="https://komarev.com/ghpvc/?username=sabbirhosain&amp;&amp;style=flat-square" style="max-width: 100%;"></a></p>
+<!--discription-->
+<h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" tabindex="-1" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🚀 About Me</h2>
 
 <p dir="auto">I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.</p>
   
