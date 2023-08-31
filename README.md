@@ -122,5 +122,5 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=sabbirhosain&&style=flat-square)  
 
------
-<div align="center">DESIGNER BY<a href="#" target="_blank">SABBIR HOSAIN</a></div>
+---------
+<div align="center">DESIGNER BY -<a href="#" target="_blank"> SABBIR HOSAIN</a></div>
