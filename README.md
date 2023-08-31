@@ -98,6 +98,19 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
+
+<p><a href="https://hits.seeyoufarm.com" target="_blank" rel="noopener noreferrer"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&amp;count_bg=%2379C83D&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=Profile+Views&amp;edge_flat=false" alt="Hits"></a>
+<a href="https://twitter.com/hejazizo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/hejazizo" alt="Twitter Badge"></a>
+<a href="https://www.linkedin.com/in/hejazizo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin"></a>
+<a href="https://www.instagram.com/ali.hejazzii" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/ali.hejazzii/" alt="Instagram Badge"></a>
+<a href="mailto:hejazizo@ualberta.ca" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail"></a>
+<a href="https://pytopia.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Website-c14438?style=flat&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://pytopia.ai" alt="Website Badge"></a>
+<a href="https://github.com/hejazizo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/hejazizo?label=Follow&amp;style=social" alt="Github"></a></p>
+
+
+
+
+
   
 <!--socail media-->
 <div class="socail">
@@ -121,5 +134,5 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
----------
-<div style="align:center; font-size:10px;">DESIGNER BY -<a href="#" target="_blank"> SABBIR HOSAIN</a></div>
+
+<div style="text-align:center; font-size:10px;">DESIGNER BY -<a href="#" target="_blank"> SABBIR HOSAIN</a></div>
