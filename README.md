@@ -19,16 +19,15 @@
 <!--website-->
 <a href="#" target="new">
 <img src=https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
-      <!--fiverr-->
-<a href="https://www.fiverr.com/quick_devlopers" target="new">
-<img src=https://img.shields.io/badge/fiverr-%231DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
-      <!--upwork-->
-<a href="https://www.upwork.com/freelancers/~01b4e9f7c92e5c7d4f" target="new">
-<img src=https://img.shields.io/badge/upwork-%c14438.svg?&style=for-the-badge&logo=upwork&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
-      
 <!--div deio-->
 <a href="#" target="new">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" /></a>
+<!--fiverr-->
+<a href="https://www.fiverr.com/quick_devlopers" target="new">
+<img src=https://img.shields.io/badge/fiverr-%231DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
+<!--upwork-->
+<a href="https://www.upwork.com/freelancers/~01b4e9f7c92e5c7d4f" target="new">
+<img src=https://img.shields.io/badge/upwork-%c14438.svg?&style=for-the-badge&logo=upwork&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
 </div><br>
 <!--Profile view counter-->
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4198c784d4dde2f019799bcd7deeb3cb007d5ad71b4ef68245d943184004ff55/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736162626972686f7361696e26267374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/4198c784d4dde2f019799bcd7deeb3cb007d5ad71b4ef68245d943184004ff55/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736162626972686f7361696e26267374796c653d666c61742d737175617265" alt="Profile views counter" data-canonical-src="https://komarev.com/ghpvc/?username=sabbirhosain&amp;&amp;style=flat-square" style="max-width: 100%;"></a></p>
