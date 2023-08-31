@@ -121,12 +121,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=sabbirhosain&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Designer by <a href="https://profilinator.rishav.dev/" target="_blank">Sabbir Hosain</a></div>
