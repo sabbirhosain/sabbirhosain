@@ -129,25 +129,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sabbirhosain&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=sabbirhosain&&style=flat-square) 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4198c784d4dde2f019799bcd7deeb3cb007d5ad71b4ef68245d943184004ff55/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736162626972686f7361696e26267374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/4198c784d4dde2f019799bcd7deeb3cb007d5ad71b4ef68245d943184004ff55/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736162626972686f7361696e26267374796c653d666c61742d737175617265" alt="Profile views counter" data-canonical-src="https://komarev.com/ghpvc/?username=sabbirhosain&amp;&amp;style=flat-square" style="max-width: 100%;"></a></p>
 
 
 
