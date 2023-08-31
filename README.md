@@ -134,5 +134,5 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" /></a>
 </div>
-
+<div style="color:red; background-color:red; height:2px; width:100%;"></div>
 <div style="text-align:center; font-size:10px;"><span>DESIGNER BY -<a href="#" target="_blank"> SABBIR HOSAIN</a></span></div>
