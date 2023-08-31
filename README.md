@@ -135,4 +135,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" /></a>
 </div>
 <div style="color:red; background-color:red; height:2px; width:100%;"></div>
-<div style="text-align:center; font-size:10px;"><span>DESIGNER BY -<a href="#" target="_blank"> SABBIR HOSAIN</a></span></div>
+<div style="margin-top: 30px;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 10px;
+    border-top: 2px solid red;"><span>DESIGNER BY -<a href="#" target="_blank"> SABBIR HOSAIN</a></span></div>
