@@ -23,10 +23,10 @@
 <a href="#" target="new">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" /></a>
 <!--fiverr-->
-<a href="https://www.fiverr.com/quick_devlopers" target="new">
+<a href="https://www.fiverr.com/quick_devlopers" target="_blank">
 <img src=https://img.shields.io/badge/fiverr-%231DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
 <!--upwork-->
-<a href="https://www.upwork.com/freelancers/~01b4e9f7c92e5c7d4f" target="new">
+<a href="https://www.upwork.com/freelancers/~01b4e9f7c92e5c7d4f" target="_blank">
 <img src=https://img.shields.io/badge/upwork-%c14438.svg?&style=for-the-badge&logo=upwork&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
 </div><br>
 <!--Profile view counter-->
