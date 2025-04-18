@@ -45,7 +45,7 @@
 🗹 Cross-Browser Compatibility
 🗹 Web Performance Optimization
 🗹 Problem Solving
-<br><br>
+<br>
 🎓 Education
 🗹 Diploma in Computer Science — Puthia Polytechnic Institute (2022)
 🗹 Diploma in Web Application Development — CodersTrust Bangladesh (2023)
