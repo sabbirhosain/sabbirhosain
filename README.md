@@ -18,10 +18,6 @@
 <img src=https://img.shields.io/badge/instagram-%23800080.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
 <!--website-->
 <a href="#" target="new">
-<img src=https://img.shields.io/badge/website-%23ff0000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
-<!--div deio-->
-<a href="#" target="new">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" /></a>
 <!--fiverr-->
 <a href="https://www.fiverr.com/quick_devlopers" target="_blank">
 <img src=https://img.shields.io/badge/fiverr-%231DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white alt=website style="margin-bottom: 5px;" /></a>
