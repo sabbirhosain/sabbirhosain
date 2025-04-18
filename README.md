@@ -31,11 +31,11 @@
 </div><br>
 <!--discription-->
 <h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" tabindex="-1" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>▶About Me</h2>
+
+<p>Hi, I’m Sabbir Hossain — a passionate and experienced MERN Stack Web Developer with over 2 years of hands-on experience building modern, responsive, and user-friendly web applications. </p>
+<p>With deep knowledge of MongoDB, Express.js, React.js, and Node.js, I specialize in turning ideas into real-world solutions through clean code and scalable architecture. Whether it's a full-stack web app or a seamless API integration, I deliver fast, responsive, and user-centric solutions that meet your business goals.</p>
+
 <pre>
-Hi, I’m Sabbir Hossain — a passionate and experienced MERN Stack Web Developer with over 2 years of hands-on experience building modern, responsive, and user-friendly web applications.
-
-With deep knowledge of MongoDB, Express.js, React.js, and Node.js, I specialize in turning ideas into real-world solutions through clean code and scalable architecture. Whether it's a full-stack web app or a seamless API integration, I deliver fast, responsive, and user-centric solutions that meet your business goals.
-
 ☑️Skills & Technologies:
 🗹 Front-End : - HTML5, CSS3, Sass, Bootstrap, Tailwind, JavaScript, jQuery, React JS.
 🗹 Back-End : - Node.js, Express.js, PHP, Laravel
@@ -57,4 +57,16 @@ With deep knowledge of MongoDB, Express.js, React.js, and Node.js, I specialize 
 🗹 Reliable, consistent, and always learning new things
 🗹 Excellent communication and a collaborative mindset
 🗹 Dedicated to building long-term partnerships
+
+📞 Contact Information:
+🗹 Email : sabbirhosainbd59@gmail.com
+🗹 Phone : 01793273702
+🗹 LinkedIn : www.linkedin.com/in/sabbirhosain
+🗹 GitHub : https://github.com/sabbirhosain
+🗹 Portfolio : https://sabbirhosain.github.io/portfolio/
+
+🌍 Languages
+🗹 Fluent in English
+🗹 Conversion in Hindi
+🗹 Basic in Bangla
 </pre>
