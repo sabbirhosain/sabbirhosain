@@ -49,7 +49,7 @@
 🎓 Education
 🗹 Diploma in Computer Science — Puthia Polytechnic Institute (2022)
 🗹 Diploma in Web Application Development — CodersTrust Bangladesh (2023)
-
+<br>
 💡 Why Work With Me?
 🗹 Passionate about creating user-centric designs
 🗹 Strong focus on clean code and quality delivery
